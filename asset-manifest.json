@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jeu-morpion/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/jeu-morpion/static/js/main.9474fa50.chunk.js",
+    "main.js.map": "/jeu-morpion/static/js/main.9474fa50.chunk.js.map",
+    "runtime-main.js": "/jeu-morpion/static/js/runtime-main.cc7ce60e.js",
+    "runtime-main.js.map": "/jeu-morpion/static/js/runtime-main.cc7ce60e.js.map",
+    "static/js/2.224558b6.chunk.js": "/jeu-morpion/static/js/2.224558b6.chunk.js",
+    "static/js/2.224558b6.chunk.js.map": "/jeu-morpion/static/js/2.224558b6.chunk.js.map",
+    "static/js/3.fb073d8b.chunk.js": "/jeu-morpion/static/js/3.fb073d8b.chunk.js",
+    "static/js/3.fb073d8b.chunk.js.map": "/jeu-morpion/static/js/3.fb073d8b.chunk.js.map",
+    "index.html": "/jeu-morpion/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/jeu-morpion/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.224558b6.chunk.js.LICENSE.txt": "/jeu-morpion/static/js/2.224558b6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jeu-morpion/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc7ce60e.js",
+    "static/js/2.224558b6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9474fa50.chunk.js"
+  ]
+}
